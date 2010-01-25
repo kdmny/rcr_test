@@ -11,5 +11,5 @@ require 'tasks/rails'
 
 desc "a sample task for run code run"
 task :default do
-  exit(0)
+  exit(1)
 end
